@@ -1,0 +1,51 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+body{
+    text-align: center;
+}
+
+
+.Calculator{
+
+
+    background:rgb(234, 228, 228);
+    width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+input{
+width: 130px;
+padding: 10px;
+margin: 10px;
+
+
+
+}
+button{
+
+
+    padding: 10px 20px;
+margin: 5px;
+cursor: pointer;
+
+color: #000;
+border: none;
+font-size: 20px;
+
+
+
+}
+img{
+
+width: 500px;
+border-radius: 10px;
+box-shadow: 5px 6px 7px blanchedalmond;
+margin: 80px;
+
+}
